@@ -65,3 +65,14 @@
 <img  width="900" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662607610/ecom/ecom_10_tnwzls.png"/>
 </p>
 
+<h3 align="center">Sobre Nosotros </h3>
+<p align="center"> 
+<a href='https://github.com/CarlosArte91' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/carlos_wbtz3g.jpg"/></a>
+<a href='https://github.com/Juani50' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/juani_ovkwvl.jpg"/></a>
+<a href='https://github.com/alejoyodax' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/ale_cktrkp.jpg"/></a>
+<a href='https://github.com/alfonso-rc' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/alfonso_unrk9p.jpg"/></a>
+<a href='https://github.com/nicolaszacarias' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/Nico_k6fnp0.jpg"/></a>
+<a href='https://github.com/MarMerc' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606982/ecom/mari_nlhldo.png"/></a>
+<a href='https://github.com/RetamozoL' target="_blank" rel="noreferrer"><img alt="cris" width="137" height="137" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606983/ecom/lauti_yeby6a.jpg"/></a>
+
+</p>

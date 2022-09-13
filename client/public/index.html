@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>Ecom App</title>
+
+  <style>
+    df-messenger {
+     --df-messenger-bot-message: #6419E6;/* mensaje chatbot*/
+     --df-messenger-button-titlebar-color: #6419E6; /*icono y barra */
+     --df-messenger-chat-background-color: #fafafa;
+     --df-messenger-font-color: white;
+     --df-messenger-send-icon: #799bb3;/* ? */
+     --df-messenger-user-message: #198f85;/*boton usuario*/
+    }
+  </style>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+
+
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+  <df-messenger
+  intent="WELCOME"
+  chat-title="Ecom-bot "
+  agent-id="72e1a107-5ded-4dfc-b821-0a3b60af565b"
+  language-code="es"
+  chat-icon="./ecom2.png"
+  wait-open	
+></df-messenger>
+  
+</body>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+  (function () {
+    emailjs.init("service_1mxpbqr");
+  })();
+</script>
+
+</html>
