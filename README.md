@@ -1,4 +1,4 @@
-# PROYECTO FINAL ECOMMERCE.
+# PROYECTO FINAL DE GRUPO ECOMMERCE.
 
 <p align="center">
 <img height="50" src="https://res.cloudinary.com/dsalyp6sj/image/upload/v1662606632/ecom/logo-ecom_ihhgbg.png" />
